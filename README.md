@@ -14,7 +14,7 @@ keeps track of the player's high score.
 
 <p align="center">
   <img src="images/ss0.png">
-</p
+</p>
 
 
 <!-- TECH STACK -->
@@ -60,7 +60,7 @@ as clicking the "Check!" button and the "Again!" button.
 
 <p align="center">
   <img src="images/ss1.png">
-</p
+</p>
 
 ## 5. Game Flow
 
